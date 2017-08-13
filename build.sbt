@@ -1,4 +1,4 @@
-name := "squarewouter"
+name := "emptysbt"
 
 version := "1.0"
 

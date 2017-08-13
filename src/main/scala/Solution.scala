@@ -1,7 +1,7 @@
-package square
+package emptysbt
 
 object Solution extends App {
 
-  println("hello square")
+  println("hello sbt")
   
 }
